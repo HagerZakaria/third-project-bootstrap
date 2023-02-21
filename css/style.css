@@ -1,0 +1,95 @@
+.form-inline{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgba(189, 183, 183, 0.767);
+}
+.header{
+   background-color: rgba(100, 100, 100, 0.8) !important;
+}
+.navbar-nav li{
+    text-transform: capitalize;
+    font-size: 20px;
+}
+.good{
+    font-weight: bold !important;
+    border-right: 1px solid rgb(189, 186, 186);
+    transition: 1s;
+    margin-right:15px; 
+    padding-right: 10px !important;
+    font-size: 22px !important;
+}
+.good:hover{
+    text-shadow:  10px 10px 20px white ,-10px -10px 20px white ;
+}
+main img{
+   height: 650px;
+   margin-top: 21px !important;
+}
+.carousel-caption{
+    background-color: #ffffff2c;
+    border-radius: 10px;
+    height: 200px;
+   
+}
+.carousel-caption h3{
+    margin-top: 60px;
+}
+.card-title{
+    font-size: 50px;
+    text-transform: capitalize;
+}
+.card2{
+    opacity: .7;
+}
+.accordion-button:hover{
+    background-color: rgba(0, 0, 0, 0.804);
+    color: white;
+}
+.accordion{
+    margin-top: -8px;
+    
+}
+.copy-btn{
+    margin-top: -10px;
+    margin-left: 70px;
+}
+.code{
+    margin-left: 100px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+.card-info{
+    margin-top: -8px;
+}
+.card-body  .card-link:hover{
+    color: white !important;
+}
+.sec7-image{
+    width: 100%;
+    height: 250px;
+
+    background-image: url("../images/images\ \(2\).jfif");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.sec8-image{
+    background-image: url("../images/صور-برمجة11-768x512.jpg");
+}
+.sec7-conta{
+    background-color:#555!important;
+    margin: auto!important;
+    margin-top: -15px !important;
+    border-radius: 7px;   
+}
+.last-sec i:hover{
+  box-shadow: 3px 3px 10px rgba(9, 72, 153, 0.466);
+  transform: scale(1.2,1.2);
+  color: white !important;
+}
+.f-hr{
+    border-top: 2px solid gray !important;   
+}
+.ft-a a:hover{
+    color: white !important;
+}
